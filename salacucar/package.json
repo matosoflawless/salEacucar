@@ -1,0 +1,13 @@
+{
+  "name": "fauna_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "cd server && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd client && npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
