@@ -1,0 +1,9 @@
+:root,html,body {
+    --primary: #e28743;
+    --secondary: #faf0e6;
+    --ternary: #170729;
+    --brown: #703d06;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
